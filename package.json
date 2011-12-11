@@ -1,0 +1,15 @@
+{
+  "name": "virtuoso-ini-parser",
+  "description": "OpenLink Virtuoso(.ini) parser",
+  "version": "0.0.1",
+  "author": "Aldo Bucchi <aldo.bucchi@gmail.com>",
+  "keywords": ["virtuoso", "openlink", "sparql", "rdf", "linkeddata"],
+  "dependencies": {
+    "coffee-script": ">= 1.1.2"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "coffee ./test/test.coffee"
+  },
+  "engines": { "node": "*" }
+}
