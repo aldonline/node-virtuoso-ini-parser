@@ -35,7 +35,7 @@ virtuoso.ini differs from regular .inis so existing parsers failed.
       for own key, value of params
         console.log "#{section}.#{key} = #{value}"
     
-    # store the has in ini format again
+    # store the hash in ini format again
     # wherever you want
     vip.write_sync './virtuoso.ini'
 
