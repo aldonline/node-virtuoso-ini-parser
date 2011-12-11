@@ -1,2 +1,2 @@
-require 'coffee-script'
-module.exports = require './lib/vip'
+require('coffee-script')
+module.exports = require('./lib/vip')
